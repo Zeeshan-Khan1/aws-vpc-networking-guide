@@ -28,7 +28,7 @@ By the end of this guide, you will be able to:
 - Familiarity with fundamental IT and networking terminology (IP addresses, subnets).
 - An AWS Free Tier Account (recommended for hands-on practice).
 
-## 🤝 Contributing
+## 🤝 Contributing:
 
 Suggestions for improving explanations or adding more practical examples are welcome! Please feel free to submit an Issue or a Pull Request.
 
