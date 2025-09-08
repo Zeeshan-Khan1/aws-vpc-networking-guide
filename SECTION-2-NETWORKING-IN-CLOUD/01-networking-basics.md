@@ -41,7 +41,7 @@ Think of networking like a city's postal system:
 | **Router / Route Table** | The **local post office** that decides which mail truck to use for which neighborhood. |
 | **Internet Gateway** | The **major central post office** that handles mail going to and from other cities and countries. |
 
-## Why This Matters for AWS
+## Why This Matters for AWS:
 
 In AWS, you don't physically plug in cables. Instead, you logically define these concepts:
 - You define a **VPC** and assign it a large **CIDR block** (e.g., `10.0.0.0/16`).
