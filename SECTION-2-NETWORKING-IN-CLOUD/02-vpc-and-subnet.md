@@ -41,39 +41,6 @@ While convenient for learning, **production workloads should always use a custom
 2.  **Use Multiple Availability Zones:** Create at least one subnet in multiple AZs for high availability and fault tolerance.
 3.  **Use a Consistent Strategy:** Use a clear naming convention (e.g., `public-subnet-a`, `private-db-subnet-b`) and tagging strategy for your subnets.
 
-## Visualizing a VPC
-+-----------------------------------------------------------------------+
-| My VPC (10.0.0.0/16) |
-| |
-| +-----------------------------+ +-----------------------------+ |
-| | Availability Zone A | | Availability Zone B | |
-| | | | | |
-| | +-----------------------+ | | +-----------------------+ | |
-| | | Public Subnet | | | | Public Subnet | | |
-| | | 10.0.1.0/24 | | | | 10.0.3.0/24 | | |
-| | | <----->| | | | |
-| | | [Web Server] | | | | [Web Server] | | |
-| | +-----------------------+ | | | +-----------------------+ | |
-| | | | | | |
-| | +-----------------------+ | | | +-----------------------+ | |
-| | | Private Subnet | | | | | Private Subnet | | |
-| | | 10.0.2.0/24 | | | | | 10.0.4.0/24 | | |
-| | | <----->| | | | | |
-| | | [Database] | | | | | [App Server] | | |
-| | +-----------------------+ | | | +-----------------------+ | |
-| +-----------------------------+ +-----------------------------+ |
-| |
-+-----------------------------------------------------------------------+
-^ ^
-| |
-| (via Internet Gateway) | (No direct internet access)
-| |
-+-----------------------------------------------------------------------+
-| The Internet |
-+-----------------------------------------------------------------------+
-
-text
-
 ---
 
 **Next:** [Route Table and NAT Gateway](./03-route-table-and-nat-gateway.md)
