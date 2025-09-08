@@ -1,7 +1,5 @@
 # 3. Route Table and NAT Gateway
 
-**Estimated Duration:** 30 minutes
-
 ## The Traffic Directors of Your VPC
 
 Route Tables and NAT Gateways work together to control the flow of network traffic within your VPC and to the outside world. They are what define a subnet as public or private.
