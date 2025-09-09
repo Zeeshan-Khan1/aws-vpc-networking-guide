@@ -1,4 +1,4 @@
-# 4. Security Group and Network ACL
+# 4. Security Group and Network ACL:
 
 ## Layered Security: The Virtual Firewalls of Your VPC
 
