@@ -50,7 +50,7 @@ Imagine your VPC is a stadium:
 
 A request must pass both the main gate (NACL) and the box door (SG) to reach an instance.
 
-## Comparison Table
+## Comparison Table:
 
 | Feature | Security Group (SG) | Network ACL (NACL) |
 | :--- | :--- | :--- |
