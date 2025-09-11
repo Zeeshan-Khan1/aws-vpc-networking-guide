@@ -1,4 +1,4 @@
-# 1. Networking Basics
+# 1. Networking Basics:
 
 ## The Foundation of Cloud Networking
 
