@@ -1,6 +1,6 @@
 # 1. Introduction:
 
-## Welcome to AWS VPC Networking
+## Welcome to AWS VPC Networking:
 
 Networking is the backbone of any cloud infrastructure. It defines how your resources communicate with each other and the outside world. Amazon Virtual Private Cloud (VPC) is the fundamental networking service that provides a logically isolated section of the AWS Cloud where you can launch resources in a virtual network that you define.
 
