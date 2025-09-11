@@ -1,4 +1,4 @@
-# 1. Introduction
+# 1. Introduction:
 
 ## Welcome to AWS VPC Networking
 
