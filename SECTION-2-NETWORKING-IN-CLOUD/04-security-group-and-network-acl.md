@@ -23,7 +23,7 @@ A **Security Group** acts as a virtual **stateful firewall** for your EC2 instan
 | HTTPS | TCP      | 443        | `0.0.0.0/0`      | Allow HTTPS from anywhere |
 | All traffic | All | All | `sg-123abc` | Allow all traffic from instances in SG `sg-123abc` |
 
-## Network ACLs (NACL)
+## Network ACLs (NACL):
 
 A **Network Access Control List** is an optional **stateless firewall** that operates at the **subnet level**.
 
