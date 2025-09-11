@@ -22,7 +22,7 @@ A solid understanding of VPC is non-negotiable for any AWS professional. It is t
 
 Whether you are preparing for AWS certifications or building production-ready architectures, mastering VPC is your first critical step.
 
-## How to Use This Guide
+## How to Use This Guide:
 
 - Proceed through each section sequentially.
 - Read the conceptual explanations first.
