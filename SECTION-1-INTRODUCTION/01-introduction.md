@@ -13,7 +13,7 @@ This guide is designed to take you from networking fundamentals to a practical u
 - **Routing:** Controlling traffic flow with Route Tables and enabling internet access with NAT Gateways.
 - **Security:** Implementing security at different levels using Security Groups and Network ACLs.
 
-## Why This Matters
+## Why This Matters:
 
 A solid understanding of VPC is non-negotiable for any AWS professional. It is the foundation for:
 - **Security:** Properly isolating resources and controlling access.
