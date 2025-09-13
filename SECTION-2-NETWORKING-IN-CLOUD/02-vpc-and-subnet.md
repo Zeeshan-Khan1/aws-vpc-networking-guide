@@ -25,7 +25,7 @@ The key difference is **internet connectivity**.
 | **Routing** | Has a **route** in its route table that sends internet-bound traffic (`0.0.0.0/0`) to an **Internet Gateway (IGW)**. | Does **not** have a direct route to an IGW. It may have a route to a **NAT Gateway** for outbound-only internet access. |
 | **Example CIDR** | `10.0.1.0/24` | `10.0.2.0/24` |
 
-## The Default VPC
+## The Default VPC:
 
 For getting started quickly, AWS automatically creates a **default VPC** in every region for your account. It comes with:
 - A default CIDR block (`172.31.0.0/16`).
