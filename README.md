@@ -22,7 +22,7 @@ By the end of this guide, you will be able to:
 - Configure route tables to control traffic flow within a VPC and to the internet.
 - Implement appropriate security measures at both the instance and subnet levels.
 
-## 🛠 Pre-requisites
+## 🛠 Pre-requisites:
 
 - Basic understanding of cloud computing concepts.
 - Familiarity with fundamental IT and networking terminology (IP addresses, subnets).
