@@ -23,7 +23,7 @@ A subnet is a logical subdivision of a larger IP network. Breaking a large netwo
 - **Improved Performance:** Reduces network congestion.
 - **Efficient Routing:** Makes network traffic management more efficient.
 
-### Routing:
+### Routing
 Routing is the process of selecting a path for traffic to travel across a network. A **router** (or a **route table** in the cloud) is the device that directs this traffic, making decisions based on its destination IP address.
 
 ### Internet Gateway (IGW)
